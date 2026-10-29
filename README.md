@@ -7,7 +7,7 @@ The analysis uses Python for data collection and preparation, SQL for querying a
 
 ## 📊 Power BI Dashboard
 
-![GitHub Repository Analytics Dashboard](<dashboard.png>)
+![GitHub Repository Analytics Dashboard](./dashboard.png)
 
 ## 🎯 Objectives
 - Collect repository data using the GitHub REST API.
