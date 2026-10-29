@@ -5,6 +5,10 @@ This project analyzes 100 GitHub repositories related to Python to explore repos
 
 The analysis uses Python for data collection and preparation, SQL for querying and analysis, and Power BI for interactive visualization.
 
+## 📊 Power BI Dashboard
+
+![GitHub Repository Analytics Dashboard](<dashboard.png>)
+
 ## 🎯 Objectives
 - Collect repository data using the GitHub REST API.
 - Clean and prepare repository data for analysis.
@@ -37,8 +41,11 @@ The analysis uses Python for data collection and preparation, SQL for querying a
 - Repository age had only a weak relationship with stars in this dataset.
 
 ## 📁 Project Files
-- `test_api.py` — Python script used for API data collection and processing.
-- `github_repository_analysis.csv` — Cleaned repository dataset.
+
+- `test_api.py` — Python script for GitHub API data collection and processing.
+- `github_repository_analysis.csv` — Cleaned dataset containing 100 GitHub repositories.
+- `Power BI dashboard.png` — Screenshot of the Power BI analytics dashboard.
+- `README.md` — Project overview, workflow, tools, and key findings.
 
 ## 🚀 How to Run
 1. Install Python and the required libraries.
@@ -58,7 +65,7 @@ The analysis uses Python for data collection and preparation, SQL for querying a
 - Expand the analysis to repositories across multiple programming languages.
 - Track repository metrics over time to measure changes in popularity.
 - Add contributor, issue, and pull-request analysis.
-- Publish the Power BI dashboard and include a link here.
+- Publish the interactive Power BI report and include its public viewing link.
 
 ## 👩‍💻 Author
 **Sharadha Kattalingannagari**
